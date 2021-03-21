@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div {
+  text-align: center;
+  color: #24adf3;
+  font-size: 50pt;
+  background-color: #282822;
+  display: block;
+  width: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
